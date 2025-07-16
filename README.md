@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Benjamin Italiano</h1>
+<h1 align="center">👋 Hi, I’m Benjamín – a self-taught Full Stack Web Developer passionate about learning, coding, and building real projects.</h1>
 <h3 align="center">An Argentinian FullStack Developer</h3>
 
-- 🔍 I’m currently studying **Systems Engineering**
+- 🎓 Studying **Systems Engineering** at UTN – Argentina (2025 – present)
 
-- 💻 I’m currently learning **PHP, JavaScript, Python**
+- 💻 Currently working with PHP, JavaScript, and Python to build full stack **web applications**.
 
-- 👯 I’m looking to collaborate on **anywhere they need help**
+- 🤝 I’m open to collaborating on web development projects or freelance tasks where **I can learn and contribute**. 
 
-- 📫 How to reach me **italianobenja@gmail.com**
+- 📫 Reach me at: italianobenja@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
